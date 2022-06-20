@@ -27,7 +27,6 @@ export default defineComponent({
         .setHTML(`
           <h4>Here I am</h4>
           <p>Currently in Tenerife</p>
-          <p>${userLocation.value}</p>
         `)
 
       const myLocationMarker = new Mapboxgl.Marker()

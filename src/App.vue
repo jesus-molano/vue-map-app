@@ -8,7 +8,6 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
@@ -16,6 +15,6 @@
   position: fixed;
   bottom: 30px;
   right: 30px;
-  width: 100px;
+  width: 60px;
 }
 </style>
