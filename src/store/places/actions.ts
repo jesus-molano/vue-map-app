@@ -13,7 +13,7 @@ const actions: ActionTree<PlacesState, StateInterface> = {
         throw new Error('No geolocation :(')
       }
     )
-  },
+  },a
   async searchPlacesByTerm ({ commit, state }, query: string): Promise<Feature[]> {
     if (query.length === 0) {
       commit('setPlaces', [])
