@@ -9,7 +9,7 @@ An interactive map where we can search for the desired place and trace a route t
 
 ## 🖼️Images
 ### Map
-![Login Image](https://github.com/jesus-molano/vue-map-app/blob/e09333ce745373fbd70e20752d66afe71528a6a4/public/mapbox.webp"Login image")
+![Map Image](https://github.com/jesus-molano/vue-map-app/blob/e09333ce745373fbd70e20752d66afe71528a6a4/public/mapbox.webp "Map image")
 
 ## 🖥️Technologies
 
